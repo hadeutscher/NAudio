@@ -1,0 +1,1 @@
+This is NAudio, a C# sound library, forked here for easy insertion as a git module in HaSuite and possible modifications in the future (at the time of writing this README, not modifications have been made to the code itself)
