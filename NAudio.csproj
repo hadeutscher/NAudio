@@ -536,7 +536,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Changes.xml" />
-    <Content Include="MSPL.txt" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
